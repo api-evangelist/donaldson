@@ -1,7 +1,11 @@
 aid: donaldson
-url: https://raw.githubusercontent.com/api-evangelist/donaldson/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/donaldson/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.donaldson.com
+description: >-
+  Donaldson Company, Inc. is a global leader in providing engine and industrial air,
+  oil and liquid filtration solutions.
