@@ -31,10 +31,12 @@ tags:
   - Manufacturing
   - Fortune 1000
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.donaldson.com/en/resources/news/
+    type: Blog
   - type: DomainSecurity
     url: security/donaldson-domain-security.yml
   - type: LinkedIn
